@@ -12,8 +12,9 @@ Lankytinos vietos<br>
 Muziejai, kultūros įstaigos<br>
 Architektūros objektai<br>
 etc.<br>
-
-
+<br>
+Papildomi CSV failai suskirstyti pagal XML kategorijas
+<br>
 Nuorodos į API (XML): <br>
 GET - http://visit.kaunas.lt/api/v1/ProductCategory<br>
 GET - http://visit.kaunas.lt/api/v1/TicProduct<br>
