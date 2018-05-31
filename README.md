@@ -3,7 +3,7 @@
 Duomenys iš KaunasIN - http://visit.kaunas.lt svetainės API (2018 05 30)<br>
 
 raw masyve (kaunas.csv) galima rasti tokius duomenų rinkinius(lokacijos, kontaktiniai duom., aprašai):
-<br>
+<br><br>
 Apgyvendinimo įstaigos - viešbučiai, moteliai, kempingai, svečių namai<br>
 Kavinės, barai, restoranai, užkandinės<br>
 Renginiai, konferencijų salių vietos<br>
