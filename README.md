@@ -2,29 +2,13 @@
 
 Duomenys iš KaunasIN - http://visit.kaunas.lt svetainės API (2018 05 30)<br>
 
-Raw masyve (kaunas.csv) galima rasti tokius duomenų rinkinius(lokacijos, kontaktiniai duom., aprašai):
-<br><br>
-Apgyvendinimo įstaigos - viešbučiai, moteliai, kempingai, svečių namai<br>
-Kavinės, barai, restoranai, užkandinės<br>
-Renginiai, konferencijų salių vietos<br>
-Medicinos turizmas<br>
-Lankytinos vietos<br>
-Muziejai, kultūros įstaigos<br>
-Architektūros objektai<br>
-etc.<br>
-<br>
-Papildomi CSV failai suskirstyti pagal XML kategorijas<br>
-<br>
 Nuorodos į API (XML): <br>
 GET - http://visit.kaunas.lt/api/v1/ProductCategory<br>
 GET - http://visit.kaunas.lt/api/v1/TicProduct<br>
-XML transformacija į CSV daryta naudojant XSLT su Saxon XSLT and XQuery processor(saxonb9-1-0-8j).<br>
 <br>
 (JSON):
 <br>
 GET - http://visit.kaunas.lt/api/v1/ProductCategory.json<br>
 GET - http://visit.kaunas.lt/api/v1/TicProduct.json<br>
 <br>
-Atskiroje direktorijoje - csv failai su duomenimis nurinktais tiesiai nuo svetainės. Taip pat Python (Beautiful Soup ir Selenium) kodas (scraperiai) su kuriuo galima atnaujinti duomenis kiekvienoje kategorijoje. Kai kurie scriptai gali veikti po ~10min.
-
-
+Atskiroje direktorijoje - csv failai su duomenimis nurinktais tiesiai nuo svetainės. Taip pat Python (Beautiful Soup ir Selenium) kodas (scraperiai) su kuriuo galima atnaujinti duomenis kiekvienoje kategorijoje. Kai kurie scriptai gali veikti po ~10min. - not perfect, but works for now.
