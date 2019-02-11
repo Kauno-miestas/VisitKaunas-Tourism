@@ -17,7 +17,7 @@ Atskiroje direktorijoje - csv failai su duomenimis nurinktais tiesiai nuo svetai
 <br><br>
 Data from KaunasIN - tourism and investment agency.
 <br><br>
-API (XML): <br>
+API<br> (XML): <br>
 GET - http://visit.kaunas.lt/api/v1/ProductCategory<br>
 GET - http://visit.kaunas.lt/api/v1/TicProduct<br>
 <br>
