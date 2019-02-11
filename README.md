@@ -12,7 +12,7 @@ GET - http://visit.kaunas.lt/api/v1/ProductCategory.json<br>
 GET - http://visit.kaunas.lt/api/v1/TicProduct.json<br>
 <br>
 Atskiroje direktorijoje - csv failai su duomenimis nurinktais tiesiai nuo svetainės. Taip pat Python (Beautiful Soup ir Selenium) kodas (scraperiai) su kuriuo galima atnaujinti duomenis kiekvienoje kategorijoje. Kai kurie scriptai gali veikti po ~10min. - not perfect, but works for now.
-br><br>
+<br><br>
 <em>- EN - </em>
 <br><br>
 Data from KaunasIN - tourism and investment agency.
